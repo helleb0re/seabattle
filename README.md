@@ -15,19 +15,20 @@
 
 ## **Использование**
 Параметры запуска для сервера:
-```bash
+```
 seabattle random_seed port
 ```
 Параметры запуска для клиента:
-```bash
+```
 seabattle random_seed ip_address port
 ```
 
 ## **Демонстрация**
 ![demonstration](images/demonstration.gif)
 
-## **Зависимости**
+5. ## **Зависимости**
 1. [С++20](https://en.cppreference.com/w/cpp/20)
-2. [Boost.Asio](https://www.boost.org/doc/libs/1_82_0/doc/html/boost_asio.html) 1.78+ version requires
-3. [GCC(MinGW-w64)](https://www.mingw-w64.org/) 11+ version requires
-4. [CMake](https://cmake.org) 3.8 version requires
+4. [Boost](https://www.boost.org/users/history/version_1_78_0.html) 1.78+ version requires
+5. [GCC](https://gcc.gnu.org/) 11+ version requires
+6. [CMake](https://cmake.org) 3.11 version requires
+7. [Conan](https://conan.io/) 1.* version reqires
