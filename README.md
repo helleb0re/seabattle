@@ -31,4 +31,4 @@ seabattle random_seed ip_address port
 2. [Boost](https://www.boost.org/users/history/version_1_78_0.html) 1.78+ version requires
 3. [GCC](https://gcc.gnu.org/) 11+ version requires
 4. [CMake](https://cmake.org) 3.11 version requires
-5. [Conan](https://conan.io/) 1.* version reqires
+5. [Conan](https://conan.io/) 1.* version requires
